@@ -3,9 +3,10 @@ Please find all the jar ,yml and video files  needed for the PROG5121/5111 Auto 
 
 ## Files included in this repo:
 
-***MessageTest*** : Example unit tests for assertEquals, assertTrue, assertFalse.
-***ResponseTest*** : Example unit tests - test in a loop. 
-***TestJava.yml*** : Example Auto testing .yml file. 
+***MessageTest*** : Example unit tests for assertEquals, assertTrue, assertFalse.  
+***ResponseTest*** : Example unit tests - test in a loop.  
+***TestJava.yml*** : Example Auto testing .yml file.  
+***Jar File*** : Junit Console Launcher file used for running unit tests. 
 
 
 
